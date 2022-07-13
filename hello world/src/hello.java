@@ -1,4 +1,4 @@
-import java.util.*;  
+import java.util.*;
 class hello {
 	public static void main(String args[]) {
 		Scanner sc= new Scanner(System.in);    //System.in is a standard input stream  
@@ -6,6 +6,6 @@ class hello {
 		System.out.print("Enter first number- ");  
 		a=sc.nextInt();
 		System.out.println("number u have entered is"+a);
-		
+		String s = "Hello";//Changes made by Abinandan
     }
 }
