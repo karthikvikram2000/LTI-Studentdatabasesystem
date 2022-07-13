@@ -9,5 +9,6 @@ class hello {
 		String k="Karthik_vikram";
 		System.out.println(k);
 		String s = "Hello";//Changes made by Abinandan
+		System.out.println(s);
     }
 }
