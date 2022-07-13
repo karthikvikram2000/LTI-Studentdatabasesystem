@@ -11,6 +11,7 @@ class hello {
 		String s = "Hello";//Changes made by Abinandan
 		System.out.println(s);
 		String b="Abinandhan";
+		string h="new changes"
 		System.out.println(b);
 		int h;
     }
