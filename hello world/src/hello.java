@@ -6,6 +6,8 @@ class hello {
 		System.out.print("Enter first number- ");  
 		a=sc.nextInt();
 		System.out.println("number u have entered is"+a);
+		String k="Karthik_vikram";
+		System.out.println(k);
 		String s = "Hello";//Changes made by Abinandan
     }
 }
