@@ -10,5 +10,7 @@ class hello {
 		System.out.println(k);
 		String s = "Hello";//Changes made by Abinandan
 		System.out.println(s);
+		String a="Abinandhan";
+		System.out.println(a);
     }
 }
