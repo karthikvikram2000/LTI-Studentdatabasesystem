@@ -12,5 +12,6 @@ class hello {
 		System.out.println(s);
 		String b="Abinandhan";
 		System.out.println(b);
+		int h;
     }
 }
